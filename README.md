@@ -54,25 +54,7 @@ hamburger.addEventListener('click', function() {
 Add any of these modifier classes to your `.hamburger` button to change the animation style:
 
 | Class | Description |
-| :--- | :--- |
-| `.hamburger--spin` | Rotates 180 degrees while the standard lines fade into an X. |
-| `.hamburger--squeeze` | The middle line disappears while the outer lines squeeze inwards. |
-| `.hamburger--collapse` | The bottom line drops down, then all lines collapse into the center. |
-
-## 🤝 Contributing
-Want to add a new animation? Pull requests are highly appreciated!
-
-## 📄 License
-This project is open-source and available under the [MIT License](LICENSE).
-
-
----
-### 🏢 About Stackaura
-This project is proudly maintained backed and sponsored by **[Stackaura](https://www.stackaura.com/)**.
-We specialize in building high-performance web applications, scalable SaaS architectures, and premium digital solutions.
-👉 **[Visit Stackaura to supercharge your next project!](https://www.stackaura.com/)**
-
-
+| :
 ---
 
 ## 🚀 Discover More from Stackaura
@@ -90,3 +72,4 @@ If you found this tool useful, check out our other high-performance web utilitie
 - **Author:** [Ahmar Hussain](https://github.com/RanaAhmar)
 
 ---
+
