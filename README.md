@@ -57,6 +57,7 @@ Add any of these modifier classes to your `.hamburger` button to change the anim
 | :
 
 
+
 ---
 
 ## 🚀 Discover More from Stackaura
@@ -74,6 +75,7 @@ If you found this tool useful, check out our other high-performance web utilitie
 - **Author:** [Ahmar Hussain](https://github.com/RanaAhmar)
 
 ---
+
 
 
 
